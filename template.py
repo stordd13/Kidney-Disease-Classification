@@ -12,7 +12,7 @@ list_of_files = [
     '.github/workflows/.gitkeep',
     f"src/{project_name}/__init__.py",
     f"src/{project_name}/components/__init__.py",
-    f"src/{project_name}/_utils/_init__.py",
+    f"src/{project_name}/utils/_init__.py",
     f"src/{project_name}/config/__init__.py",
     f"src/{project_name}/config/configuration.py",
     f"src/{project_name}/pipeline/__init__.py",
