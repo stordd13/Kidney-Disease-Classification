@@ -73,12 +73,11 @@ Run this to export as env variables:
 
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/stordd13/Kidney-Disease-Classification.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/stordeur.bru/Kidney-Disease-Classification.mlflow
 
-export MLFLOW_TRACKING_USERNAME=stordd 
+export MLFLOW_TRACKING_USERNAME=stordeur.bru
 
 export MLFLOW_TRACKING_PASSWORD=password
-
 ```
 
 
